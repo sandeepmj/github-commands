@@ -1,5 +1,13 @@
 # GitHub Command Line Basics
 
+## Command Line (Mac Terminal)
+
+`pwd` tells you where you are currently located in your folder (directory) tree.
+
+`~` takes you to your root directory
+
+
+
 `git status` checks for any updates or changes.
 
 `git add .` adds all the files and folders with changes.
