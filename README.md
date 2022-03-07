@@ -6,7 +6,17 @@
 
 `~` takes you to your root directory
 
+`mkdir a-folder-name` makes a directory where you are currently located.
 
+`cd folder-name-here` moves you into a directory.
+
+`touch file-name.py` creates the file `file-name.py` in your current directory
+
+`ls` lists all the directories in current folder.
+
+`cd ..` that's `cd space dot dot` moves you out of the current directory to the enclosing directory.
+
+## GitHub CL
 
 `git status` checks for any updates or changes.
 
